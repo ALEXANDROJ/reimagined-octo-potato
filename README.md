@@ -1,2 +1,0 @@
-# reimagined-octo-potato
-aprender
